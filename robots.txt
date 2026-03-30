@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://contato.iandra.sifu2.web.ufersa.dev.br/sitemap.xml
